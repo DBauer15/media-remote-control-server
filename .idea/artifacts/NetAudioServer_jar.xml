@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="NetAudioServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NetAudioServer_jar</output-path>
+    <root id="archive" name="NetAudioServer.jar">
+      <element id="module-output" name="NetAudioServer" />
+    </root>
+  </artifact>
+</component>
