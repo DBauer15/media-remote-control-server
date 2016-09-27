@@ -1,4 +1,4 @@
-# media-remote-control-server
+# Linux Media Control Server
 
 This is a simple server written in Java, which lets you control volume and media playback on your Linux PC!
 It works via a simple socket connection, so there's minimal overhead!
